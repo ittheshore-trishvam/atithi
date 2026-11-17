@@ -1,0 +1,22 @@
+{
+  "name": "le-boulevard-menu",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Le Boulevard — Digital Restaurant Menu Website for Hotel Atithi - TGI Grand, Puducherry",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "node server.js",
+    "build:html": "node build-standalone.cjs"
+  },
+  "keywords": [
+    "restaurant-menu",
+    "hotel-atithi",
+    "le-boulevard",
+    "puducherry",
+    "qr-code-menu"
+  ],
+  "author": "Le Boulevard Culinary Team",
+  "license": "ISC"
+}

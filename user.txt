@@ -1,0 +1,7 @@
+To open the management portal:
+
+Tap Admin on the top header or visit http://localhost:3001/#admin.
+Enter the authorized credentials:
+Username: admin
+Password: Boulevard@2026
+Quick PIN: 122436
