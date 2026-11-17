@@ -1,0 +1,2133 @@
+{
+  "menu": [
+    {
+      "id": "snack-01",
+      "name": "Sandwiches Grilled – Veg",
+      "category": "snacks",
+      "categoryTitle": "Snacks & Quick Bites",
+      "price": 350,
+      "serviceTime": "11:00 AM – 11:00 PM",
+      "mealTypes": [
+        "all-day",
+        "room-service",
+        "breakfast"
+      ],
+      "isVeg": true,
+      "isAvailable": true,
+      "description": "Toasted artisanal bread layered with fresh garden cucumbers, juicy tomatoes, spiced cheese, and mint chutney.",
+      "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "portionSize": "Served with crispy potato wafers & house dip"
+    },
+    {
+      "id": "snack-02",
+      "name": "Sandwiches Grilled – Chicken",
+      "category": "snacks",
+      "categoryTitle": "Snacks & Quick Bites",
+      "price": 400,
+      "serviceTime": "11:00 AM – 11:00 PM",
+      "mealTypes": [
+        "all-day",
+        "room-service"
+      ],
+      "isVeg": false,
+      "isBestseller": true,
+      "isAvailable": true,
+      "description": "Succulent pulled tandoori chicken, bell peppers, melted cheddar, and herb mayonnaise grilled to golden crispness.",
+      "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "portionSize": "Served with golden fries & cocktail sauce"
+    },
+    {
+      "id": "snack-03",
+      "name": "Club Sandwich (Chicken)",
+      "category": "snacks",
+      "categoryTitle": "Snacks & Quick Bites",
+      "price": 450,
+      "serviceTime": "11:00 AM – 11:00 PM",
+      "mealTypes": [
+        "all-day",
+        "room-service"
+      ],
+      "isVeg": false,
+      "isBestseller": true,
+      "isChefSpecial": true,
+      "isAvailable": true,
+      "description": "Triple-decker classic layered with shredded roasted chicken, fried egg, lettuce, cheddar slice, and creamy dijon spread.",
+      "image": "https://images.unsplash.com/photo-1567234669003-dce7a7a88821?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Gluten",
+        "Egg",
+        "Dairy"
+      ],
+      "portionSize": "Served with potato wedges & slaw"
+    },
+    {
+      "id": "snack-04",
+      "name": "Creole Chicken Nuggets",
+      "category": "snacks",
+      "categoryTitle": "Snacks & Quick Bites",
+      "price": 350,
+      "serviceTime": "11:00 AM – 11:00 PM",
+      "mealTypes": [
+        "all-day",
+        "room-service"
+      ],
+      "isVeg": false,
+      "isSpicy": "mild",
+      "isAvailable": true,
+      "description": "Pondicherry French-Creole spiced minced chicken bites crumbed and fried golden, accompanied by zesty Creole aioli.",
+      "image": "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Gluten"
+      ],
+      "portionSize": "8 Pieces"
+    },
+    {
+      "id": "snack-05",
+      "name": "Cajun Fish Fingers",
+      "category": "snacks",
+      "categoryTitle": "Snacks & Quick Bites",
+      "price": 450,
+      "serviceTime": "11:00 AM – 11:00 PM",
+      "mealTypes": [
+        "all-day",
+        "room-service"
+      ],
+      "isVeg": false,
+      "isBestseller": true,
+      "isAvailable": true,
+      "description": "Strips of fresh coastal sea fish seasoned with aromatic Cajun herbs and panko crumbs, served with caper tartar sauce.",
+      "image": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Fish",
+        "Gluten",
+        "Egg"
+      ],
+      "portionSize": "6 Crispy Fillet Strips"
+    },
+    {
+      "id": "snack-06",
+      "name": "Chilly Cheese Toast",
+      "category": "snacks",
+      "categoryTitle": "Snacks & Quick Bites",
+      "price": 250,
+      "serviceTime": "11:00 AM – 11:00 PM",
+      "mealTypes": [
+        "all-day",
+        "room-service",
+        "breakfast"
+      ],
+      "isVeg": true,
+      "isSpicy": "medium",
+      "isAvailable": true,
+      "description": "Crispy baguette toast topped with a bubbling blend of sharp cheddar, chopped green chillies, and bell peppers.",
+      "image": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "portionSize": "4 Slices"
+    },
+    {
+      "id": "snack-07",
+      "name": "Paneer Pakoda",
+      "category": "snacks",
+      "categoryTitle": "Snacks & Quick Bites",
+      "price": 300,
+      "serviceTime": "11:00 AM – 11:00 PM",
+      "mealTypes": [
+        "all-day",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isAvailable": true,
+      "description": "Fresh malai paneer cubes stuffed with tangy mint chutney, batter-fried in spiced gram flour to golden perfection.",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy"
+      ],
+      "portionSize": "6 Stuffed Pakodas with Chutneys"
+    },
+    {
+      "id": "snack-08",
+      "name": "Onion Pakoda",
+      "category": "snacks",
+      "categoryTitle": "Snacks & Quick Bites",
+      "price": 250,
+      "serviceTime": "11:00 AM – 11:00 PM",
+      "mealTypes": [
+        "all-day",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isVegan": true,
+      "isSpicy": "mild",
+      "isAvailable": true,
+      "description": "Crisp, shredded Madras shallots tossed with fresh curry leaves, crushed coriander seeds, and fried crunchy.",
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=600&q=80",
+      "portionSize": "Generous Basket"
+    },
+    {
+      "id": "snack-09",
+      "name": "French Fries / Home Fries",
+      "category": "snacks",
+      "categoryTitle": "Snacks & Quick Bites",
+      "price": 250,
+      "serviceTime": "11:00 AM – 11:00 PM",
+      "mealTypes": [
+        "all-day",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isVegan": true,
+      "isAvailable": true,
+      "description": "Golden fried potato batons dusted with sea salt or spiced house cajun seasoning, served with garlic dip.",
+      "image": "https://images.unsplash.com/photo-1576107232684-1279f3908594?auto=format&fit=crop&w=600&q=80",
+      "portionSize": "Choice of Classic Salted or Masala"
+    },
+    {
+      "id": "snack-10",
+      "name": "Masala Papad / Masala Peanuts",
+      "category": "snacks",
+      "categoryTitle": "Snacks & Quick Bites",
+      "price": 250,
+      "serviceTime": "11:00 AM – 11:00 PM",
+      "mealTypes": [
+        "all-day",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isVegan": true,
+      "isSpicy": "mild",
+      "isAvailable": true,
+      "description": "Roasted lentil papadums or crunchy peanuts crowned with diced shallots, ripe tomatoes, green chillies, and fresh coriander.",
+      "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Peanuts (for peanut variant)"
+      ],
+      "portionSize": "Appetizer Platter"
+    },
+    {
+      "id": "snack-11",
+      "name": "Seasonal Fresh Juice",
+      "category": "snacks",
+      "categoryTitle": "Snacks & Quick Bites",
+      "price": 200,
+      "serviceTime": "11:00 AM – 11:00 PM",
+      "mealTypes": [
+        "all-day",
+        "breakfast",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isVegan": true,
+      "isAvailable": true,
+      "description": "Pure freshly squeezed seasonal fruits: Choice of Sweet Orange, Watermelon, Pineapple, or Sweet Lime.",
+      "image": "https://images.unsplash.com/photo-1613478223719-2ab802602423?auto=format&fit=crop&w=600&q=80",
+      "portionSize": "300 ml Chilled Glass"
+    },
+    {
+      "id": "snack-12",
+      "name": "Butter Milk",
+      "category": "snacks",
+      "categoryTitle": "Snacks & Quick Bites",
+      "price": 125,
+      "serviceTime": "11:00 AM – 11:00 PM",
+      "mealTypes": [
+        "all-day",
+        "lunch",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isAvailable": true,
+      "description": "Traditional coastal Neer Mor tempered with mustard seeds, fresh ginger, crushed curry leaves, and green chillies.",
+      "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy"
+      ],
+      "portionSize": "300 ml Earthen Glass"
+    },
+    {
+      "id": "snack-13",
+      "name": "Lassi",
+      "category": "snacks",
+      "categoryTitle": "Snacks & Quick Bites",
+      "price": 125,
+      "serviceTime": "11:00 AM – 11:00 PM",
+      "mealTypes": [
+        "all-day",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isAvailable": true,
+      "description": "Rich, churned farm-fresh yogurt drink served Sweet with rose water and pistachios or Salted with roasted cumin.",
+      "image": "https://images.unsplash.com/photo-1546173159-315724a31696?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy"
+      ],
+      "portionSize": "Choice of Sweet or Salted"
+    },
+    {
+      "id": "snack-14",
+      "name": "Milk Shake",
+      "category": "snacks",
+      "categoryTitle": "Snacks & Quick Bites",
+      "price": 200,
+      "serviceTime": "11:00 AM – 11:00 PM",
+      "mealTypes": [
+        "all-day",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isAvailable": true,
+      "description": "Thick, creamy dairy milkshake whipped with premium ice cream: Choice of Chocolate Fudge, Vanilla Bean, or Alphonso Mango.",
+      "image": "https://images.unsplash.com/photo-1572490122747-3968b75cc699?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy"
+      ],
+      "portionSize": "350 ml Tall Glass"
+    },
+    {
+      "id": "snack-15",
+      "name": "Tea",
+      "category": "snacks",
+      "categoryTitle": "Snacks & Quick Bites",
+      "price": 150,
+      "serviceTime": "11:00 AM – 11:00 PM",
+      "mealTypes": [
+        "all-day",
+        "breakfast",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isAvailable": true,
+      "description": "Freshly brewed Nilgiri tea leaves with steamed milk, ginger, or aromatic cardamom.",
+      "image": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy"
+      ],
+      "portionSize": "Pot for One"
+    },
+    {
+      "id": "snack-16",
+      "name": "Coffee",
+      "category": "snacks",
+      "categoryTitle": "Snacks & Quick Bites",
+      "price": 150,
+      "serviceTime": "11:00 AM – 11:00 PM",
+      "mealTypes": [
+        "all-day",
+        "breakfast",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isAvailable": true,
+      "description": "Authentic South Indian degree decoction filter coffee frothed with boiling hot rich milk.",
+      "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy"
+      ],
+      "portionSize": "Traditional Dabarah Set"
+    },
+    {
+      "id": "soup-01",
+      "name": "Cream Soup",
+      "category": "soups-salads",
+      "categoryTitle": "Soups & Salads",
+      "price": 200,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isAvailable": true,
+      "description": "Velvety cream soup enriched with butter, simmered aromatics, and served with herbed garlic croutons.",
+      "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "variants": [
+        {
+          "name": "Veg",
+          "price": 200,
+          "isVeg": true
+        },
+        {
+          "name": "Non-Veg",
+          "price": 250,
+          "isVeg": false
+        }
+      ],
+      "choices": [
+        "Chicken",
+        "Mushroom",
+        "Broccoli",
+        "Veg"
+      ]
+    },
+    {
+      "id": "soup-02",
+      "name": "Oriental Soup",
+      "category": "soups-salads",
+      "categoryTitle": "Soups & Salads",
+      "price": 200,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isSpicy": "mild",
+      "isAvailable": true,
+      "description": "Authentic Indo-Chinese broth infused with ginger, scallions, and your choice of soup preparation style.",
+      "image": "https://images.unsplash.com/photo-1603105037880-880cd4edfb0d?auto=format&fit=crop&w=600&q=80",
+      "variants": [
+        {
+          "name": "Veg",
+          "price": 200,
+          "isVeg": true
+        },
+        {
+          "name": "Non-Veg",
+          "price": 250,
+          "isVeg": false
+        }
+      ],
+      "choices": [
+        "Sweet Corn",
+        "Manchow",
+        "Clear",
+        "Hot n Sour"
+      ]
+    },
+    {
+      "id": "soup-03",
+      "name": "Sprout & Peanut Chaat",
+      "category": "soups-salads",
+      "categoryTitle": "Soups & Salads",
+      "price": 250,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "all-day",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isVegan": true,
+      "isAvailable": true,
+      "description": "Nutritious sprouted moong and roasted peanuts tossed with diced raw mango, red onions, tomatoes, and tangy tamarind-cumin dressing.",
+      "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Peanuts"
+      ],
+      "portionSize": "Refreshing Starter Salad"
+    },
+    {
+      "id": "soup-04",
+      "name": "Caesar Salad",
+      "category": "soups-salads",
+      "categoryTitle": "Soups & Salads",
+      "price": 300,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isBestseller": true,
+      "isAvailable": true,
+      "description": "Crisp iceberg lettuce dressed in house-whipped creamy garlic parmesan dressing, butter croutons, and shaved aged parmesan.",
+      "image": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Egg (for Caesar dressing)"
+      ],
+      "variants": [
+        {
+          "name": "Veg",
+          "price": 300,
+          "isVeg": true
+        },
+        {
+          "name": "Chicken",
+          "price": 350,
+          "isVeg": false
+        }
+      ]
+    },
+    {
+      "id": "start-01",
+      "name": "Mini Asian Cigars with Hot Garlic Sc",
+      "category": "starters",
+      "categoryTitle": "Starters & Appetizers",
+      "price": 350,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isSpicy": "medium",
+      "isAvailable": true,
+      "description": "Crispy delicate spring roll cigars stuffed with spiced oriental vegetables and glass noodles, served with fiery hot garlic sauce.",
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Gluten",
+        "Soy"
+      ],
+      "portionSize": "6 Cigars"
+    },
+    {
+      "id": "start-02",
+      "name": "Salt N Peppered American Corn",
+      "category": "starters",
+      "categoryTitle": "Starters & Appetizers",
+      "price": 350,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isVegan": true,
+      "isSpicy": "mild",
+      "isAvailable": true,
+      "description": "Golden sweet corn kernels flash-fried crisp, tossed with crushed tellicherry black pepper, spring onions, and garlic flakes.",
+      "image": "https://images.unsplash.com/photo-1551782450-a2132b4ba21d?auto=format&fit=crop&w=600&q=80",
+      "portionSize": "Generous Wok Platter"
+    },
+    {
+      "id": "start-03",
+      "name": "Cauliflower Manchurian",
+      "category": "starters",
+      "categoryTitle": "Starters & Appetizers",
+      "price": 350,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isSpicy": "medium",
+      "isAvailable": true,
+      "description": "Crispy cauliflower florets glazed in a tangy and savory soy, garlic, and fresh green chilli Indo-Chinese reduction.",
+      "image": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ]
+    },
+    {
+      "id": "start-04",
+      "name": "Bar-be-qued Pineapple with Mint Chutney",
+      "category": "starters",
+      "categoryTitle": "Starters & Appetizers",
+      "price": 350,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isChefSpecial": true,
+      "isAvailable": true,
+      "description": "Sweet coastal pineapple wedges marinated in chaat spices and honey, char-grilled over live embers, served with pudina dip.",
+      "image": "https://images.unsplash.com/photo-1550258987-190a2d41a8ba?auto=format&fit=crop&w=600&q=80",
+      "portionSize": "4 Charred Skewers"
+    },
+    {
+      "id": "start-05",
+      "name": "Babycorn Bezule",
+      "category": "starters",
+      "categoryTitle": "Starters & Appetizers",
+      "price": 350,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isSpicy": "medium",
+      "isAvailable": true,
+      "description": "Mangalorean-coastal delicacy of tender babycorn dipped in spiced yogurt batter and fried with curry leaves and mustard seeds.",
+      "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy"
+      ]
+    },
+    {
+      "id": "start-06",
+      "name": "Mushroom Milagu Pirattal",
+      "category": "starters",
+      "categoryTitle": "Starters & Appetizers",
+      "price": 350,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isChefSpecial": true,
+      "isSpicy": "spicy",
+      "isAvailable": true,
+      "description": "Button mushrooms dry roasted Chettinad-style with freshly ground tellicherry black pepper, shallots, fennel, and curry leaves.",
+      "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=600&q=80",
+      "portionSize": "Traditional Skillet"
+    },
+    {
+      "id": "start-07",
+      "name": "Chilly Soya Paneer",
+      "category": "starters",
+      "categoryTitle": "Starters & Appetizers",
+      "price": 425,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isSpicy": "medium",
+      "isAvailable": true,
+      "description": "Soft cottage cheese cubes and edamame-style soya tossed with crunchy bell peppers, onions, and spicy dark soya sauce.",
+      "image": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy",
+        "Soy",
+        "Gluten"
+      ]
+    },
+    {
+      "id": "start-08",
+      "name": "Makhmali Paneer Tikka",
+      "category": "starters",
+      "categoryTitle": "Starters & Appetizers",
+      "price": 425,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isBestseller": true,
+      "isAvailable": true,
+      "description": "Melt-in-mouth cottage cheese marinated in hung curd, cashew paste, mace, and royal cardamom, smoked in our clay oven.",
+      "image": "https://images.unsplash.com/photo-1599488615731-7e5c2823ff28?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy",
+        "Nuts (Cashew)"
+      ],
+      "portionSize": "6 Large Tikka Pieces"
+    },
+    {
+      "id": "start-09",
+      "name": "Schezwan Chilly Fish",
+      "category": "starters",
+      "categoryTitle": "Starters & Appetizers",
+      "price": 450,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": false,
+      "isSpicy": "spicy",
+      "isAvailable": true,
+      "description": "Wok-tossed fresh fish fillets in aromatic Sichuan pepper oil, dried red chillies, garlic, and scallions.",
+      "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ]
+    },
+    {
+      "id": "start-10",
+      "name": "Mangolian Fried Fish",
+      "category": "starters",
+      "categoryTitle": "Starters & Appetizers",
+      "price": 450,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": false,
+      "isAvailable": true,
+      "description": "Crisp fish nuggets coated in aromatic sweet hoisin, sesame, and ginger glaze garnished with toasted sesame seeds.",
+      "image": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Fish",
+        "Sesame",
+        "Soy"
+      ]
+    },
+    {
+      "id": "start-11",
+      "name": "Honey Chicken Wings",
+      "category": "starters",
+      "categoryTitle": "Starters & Appetizers",
+      "price": 450,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": false,
+      "isBestseller": true,
+      "isAvailable": true,
+      "description": "Glazed chicken drumettes roasted until crisp, coated in organic honey, crushed garlic, and aged balsamic glaze.",
+      "image": "https://images.unsplash.com/photo-1527477396000-e27163b481c2?auto=format&fit=crop&w=600&q=80",
+      "portionSize": "6 Wings"
+    },
+    {
+      "id": "start-12",
+      "name": "Chilly Garlic Chicken",
+      "category": "starters",
+      "categoryTitle": "Starters & Appetizers",
+      "price": 450,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": false,
+      "isSpicy": "spicy",
+      "isAvailable": true,
+      "description": "Boneless tender chicken tossed in a fiery wok with minced garlic, fresh red chillies, and savory dark soy broth.",
+      "image": "https://images.unsplash.com/photo-1625944525533-473f1a3d54e7?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ]
+    },
+    {
+      "id": "start-13",
+      "name": "Banjara Murgh Kebab",
+      "category": "starters",
+      "categoryTitle": "Starters & Appetizers",
+      "price": 450,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": false,
+      "isChefSpecial": true,
+      "isAvailable": true,
+      "description": "Rustic spiced chicken morsels marinated with fresh coriander, mint paste, roasted cumin, and grilled over charcoal.",
+      "image": "https://images.unsplash.com/photo-1599488615731-7e5c2823ff28?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy"
+      ],
+      "portionSize": "6 Kebabs with Mint Dip"
+    },
+    {
+      "id": "start-14",
+      "name": "Chicken 65",
+      "category": "starters",
+      "categoryTitle": "Starters & Appetizers",
+      "price": 450,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": false,
+      "isBestseller": true,
+      "isSpicy": "spicy",
+      "isAvailable": true,
+      "description": "Legendary South Indian fried spiced chicken morsels tossed with tempered mustard, fresh green chillies, and crisp curry leaves.",
+      "image": "https://images.unsplash.com/photo-1610057099443-fde8c4d50f91?auto=format&fit=crop&w=600&q=80",
+      "portionSize": "Classic Southern Plate"
+    },
+    {
+      "id": "start-15",
+      "name": "Mutton Milagu Pirattal",
+      "category": "starters",
+      "categoryTitle": "Starters & Appetizers",
+      "price": 550,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": false,
+      "isChefSpecial": true,
+      "isSpicy": "spicy",
+      "isAvailable": true,
+      "description": "Tender baby lamb cubes slow cooked dry with fiery freshly ground black pepper, shallots, garlic, and aromatic Chettinad spices.",
+      "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=600&q=80",
+      "portionSize": "Rich Meat Starter"
+    },
+    {
+      "id": "start-16",
+      "name": "Tandoori Chicken Chooza",
+      "category": "starters",
+      "categoryTitle": "Starters & Appetizers",
+      "price": 550,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": false,
+      "isBestseller": true,
+      "isAvailable": true,
+      "description": "Whole baby chicken on the bone marinated in Kashmiri degi mirch, curd, ginger-garlic paste, and roasted in our tandoor.",
+      "image": "https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy"
+      ],
+      "portionSize": "Half / Full Tender Chicken"
+    },
+    {
+      "id": "start-17",
+      "name": "Jinga Ajwaini",
+      "category": "starters",
+      "categoryTitle": "Starters & Appetizers",
+      "price": 600,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": false,
+      "isChefSpecial": true,
+      "isAvailable": true,
+      "description": "Jumbo Bay of Bengal sea prawns marinated with carom seeds (ajwain), hung curd, yellow chilli, and charcoal grilled.",
+      "image": "https://images.unsplash.com/photo-1559742811-822873691df8?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Crustacean",
+        "Dairy"
+      ],
+      "portionSize": "5 Jumbo Prawns"
+    },
+    {
+      "id": "start-18",
+      "name": "Era Manga Thokku",
+      "category": "starters",
+      "categoryTitle": "Starters & Appetizers",
+      "price": 600,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": false,
+      "isChefSpecial": true,
+      "isBestseller": true,
+      "isSpicy": "spicy",
+      "isAvailable": true,
+      "description": "Signature coastal Pondicherry delicacy: Juicy local prawns sautéed in a tangy raw green mango and shallot reduction.",
+      "image": "https://images.unsplash.com/photo-1565680018434-b513d5e5fd47?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Crustacean"
+      ],
+      "portionSize": "Chef Signature Plate"
+    },
+    {
+      "id": "main-01",
+      "name": "Dal Tadka",
+      "category": "main-course",
+      "categoryTitle": "Main Course Specialties",
+      "price": 220,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isBestseller": true,
+      "isAvailable": true,
+      "description": "Yellow arhar lentils tempered with pure desi ghee, cumin seeds, garlic, dried red chillies, and fresh coriander.",
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy (Ghee)"
+      ],
+      "portionSize": "Serves 2"
+    },
+    {
+      "id": "main-02",
+      "name": "Aloo Jeera",
+      "category": "main-course",
+      "categoryTitle": "Main Course Specialties",
+      "price": 300,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isVegan": true,
+      "isAvailable": true,
+      "description": "Diced tender potatoes sautéed with roasted whole cumin, turmeric, amchur powder, and green chillies.",
+      "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=600&q=80",
+      "portionSize": "Comfort Entree"
+    },
+    {
+      "id": "main-03",
+      "name": "Subji Shabnam",
+      "category": "main-course",
+      "categoryTitle": "Main Course Specialties",
+      "price": 300,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isAvailable": true,
+      "description": "Melange of fresh button mushrooms, green peas, and baby corn simmered in a light golden cashew and onion gravy.",
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy",
+        "Nuts (Cashew)"
+      ]
+    },
+    {
+      "id": "main-04",
+      "name": "Multan Paneer Masala",
+      "category": "main-course",
+      "categoryTitle": "Main Course Specialties",
+      "price": 400,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isChefSpecial": true,
+      "isAvailable": true,
+      "description": "Heritage preparation of paneer stuffed with dried fruits, simmered in a mildly spiced royal saffron and tomato curry.",
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy",
+        "Nuts"
+      ]
+    },
+    {
+      "id": "main-05",
+      "name": "Paneer Butter Masala",
+      "category": "main-course",
+      "categoryTitle": "Main Course Specialties",
+      "price": 400,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isBestseller": true,
+      "isAvailable": true,
+      "description": "Tender cottage cheese simmered in a silky, rich makhani gravy of San Marzano-style tomatoes, butter, and fragrant kasuri methi.",
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy",
+        "Nuts (Cashew)"
+      ]
+    },
+    {
+      "id": "main-06",
+      "name": "Mediterranean Veg Skewers",
+      "category": "main-course",
+      "categoryTitle": "Main Course Specialties",
+      "price": 400,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isAvailable": true,
+      "description": "Char-grilled zucchini, bell peppers, button mushrooms, and cottage cheese served over fragrant herb rice with tzatziki.",
+      "image": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy"
+      ]
+    },
+    {
+      "id": "main-07",
+      "name": "Manchurian Gravy – Mushroom",
+      "category": "main-course",
+      "categoryTitle": "Main Course Specialties",
+      "price": 350,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isSpicy": "medium",
+      "isAvailable": true,
+      "description": "Crispy button mushrooms simmered in a luscious Indo-Chinese soy, ginger, and garlic scallion gravy.",
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ]
+    },
+    {
+      "id": "main-08",
+      "name": "Manchurian Gravy – Paneer",
+      "category": "main-course",
+      "categoryTitle": "Main Course Specialties",
+      "price": 400,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isSpicy": "medium",
+      "isAvailable": true,
+      "description": "Golden fried paneer chunks in a luscious Indo-Chinese garlic, coriander root, and dark soy reduction.",
+      "image": "https://images.unsplash.com/photo-1567188040759-fb8a883dc6d8?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy",
+        "Soy",
+        "Gluten"
+      ]
+    },
+    {
+      "id": "main-09",
+      "name": "Korma – Mushroom",
+      "category": "main-course",
+      "categoryTitle": "Main Course Specialties",
+      "price": 350,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isAvailable": true,
+      "description": "Farm mushrooms braised in a mild, velvety coastal coconut, poppy seed, and cashew nut gravy.",
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Nuts (Cashew)"
+      ]
+    },
+    {
+      "id": "main-10",
+      "name": "Korma – Paneer",
+      "category": "main-course",
+      "categoryTitle": "Main Course Specialties",
+      "price": 400,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isAvailable": true,
+      "description": "Cubes of cottage cheese cooked gently in an aromatic coconut milk and cashew nut sauce with green cardamom.",
+      "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy",
+        "Nuts (Cashew)"
+      ]
+    },
+    {
+      "id": "main-11",
+      "name": "Butter Chicken Masala",
+      "category": "main-course",
+      "categoryTitle": "Main Course Specialties",
+      "price": 450,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": false,
+      "isBestseller": true,
+      "isAvailable": true,
+      "description": "Charcoal-grilled tandoori chicken simmered in our famous velvety tomato, cream, and butter gravy with honey and fenugreek.",
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy",
+        "Nuts (Cashew)"
+      ]
+    },
+    {
+      "id": "main-12",
+      "name": "Methi Murgh",
+      "category": "main-course",
+      "categoryTitle": "Main Course Specialties",
+      "price": 450,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": false,
+      "isAvailable": true,
+      "description": "Tender chicken braised with fresh fenugreek leaves, roasted spices, and caramelized onion-cashew paste.",
+      "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy",
+        "Nuts"
+      ]
+    },
+    {
+      "id": "main-13",
+      "name": "Chilly Gravy – Chicken",
+      "category": "main-course",
+      "categoryTitle": "Main Course Specialties",
+      "price": 400,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": false,
+      "isSpicy": "spicy",
+      "isAvailable": true,
+      "description": "Diced chicken, onions, and bell peppers simmered in a spicy, glistening garlic and dark soya sauce.",
+      "image": "https://images.unsplash.com/photo-1625944525533-473f1a3d54e7?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Soy",
+        "Gluten"
+      ]
+    },
+    {
+      "id": "main-14",
+      "name": "Chilly Gravy – Fish",
+      "category": "main-course",
+      "categoryTitle": "Main Course Specialties",
+      "price": 500,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": false,
+      "isSpicy": "spicy",
+      "isAvailable": true,
+      "description": "Fresh sea fish fillets simmered in an aromatic chilli garlic broth with scallions and oriental seasonings.",
+      "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Fish",
+        "Soy",
+        "Gluten"
+      ]
+    },
+    {
+      "id": "main-15",
+      "name": "Chilly Gravy – Prawn",
+      "category": "main-course",
+      "categoryTitle": "Main Course Specialties",
+      "price": 600,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": false,
+      "isSpicy": "spicy",
+      "isAvailable": true,
+      "description": "Plump Bay of Bengal prawns poached in a robust chilli, garlic, and scallion sauce with cracked pepper.",
+      "image": "https://images.unsplash.com/photo-1559742811-822873691df8?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Crustacean",
+        "Soy",
+        "Gluten"
+      ]
+    },
+    {
+      "id": "main-16",
+      "name": "Creole Spice Grilled Prawns with Rice and Veg",
+      "category": "main-course",
+      "categoryTitle": "Main Course Specialties",
+      "price": 650,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": false,
+      "isChefSpecial": true,
+      "isBestseller": true,
+      "isAvailable": true,
+      "description": "Jumbo prawns rubbed with French-Creole coastal spices, butter-seared, served with parsley butter rice and grilled market vegetables.",
+      "image": "https://images.unsplash.com/photo-1559742811-822873691df8?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Crustacean",
+        "Dairy"
+      ],
+      "portionSize": "Signature Continental Platter"
+    },
+    {
+      "id": "main-17",
+      "name": "Chicken Stroganoff with Saffron Rice",
+      "category": "main-course",
+      "categoryTitle": "Main Course Specialties",
+      "price": 600,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": false,
+      "isChefSpecial": true,
+      "isAvailable": true,
+      "description": "Strips of tender chicken breast and mushrooms in a rich sour cream, mustard, and white wine reduction over fragrant saffron basmati rice.",
+      "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ]
+    },
+    {
+      "id": "rnp-01",
+      "name": "Steamed Rice",
+      "category": "rice-noodles-pasta",
+      "categoryTitle": "Rice, Noodles & Pasta",
+      "price": 200,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isVegan": true,
+      "isAvailable": true,
+      "description": "Fluffy, long-grain fragrant aged basmati rice steamed to perfection.",
+      "image": "https://images.unsplash.com/photo-1516684732162-798a0062be99?auto=format&fit=crop&w=600&q=80",
+      "portionSize": "Serves 2"
+    },
+    {
+      "id": "rnp-02",
+      "name": "Pulao",
+      "category": "rice-noodles-pasta",
+      "categoryTitle": "Rice, Noodles & Pasta",
+      "price": 350,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isAvailable": true,
+      "description": "Fragrant basmati rice cooked with whole spices, green peas, carrots, and clarified butter.",
+      "image": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy (Ghee)"
+      ],
+      "portionSize": "Serves 2"
+    },
+    {
+      "id": "rnp-03",
+      "name": "Curd Rice",
+      "category": "rice-noodles-pasta",
+      "categoryTitle": "Rice, Noodles & Pasta",
+      "price": 250,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isBestseller": true,
+      "isAvailable": true,
+      "description": "Traditional comforting South Indian curd rice tempered with mustard, ginger, curry leaves, pomegranate pearls, and house pickle.",
+      "image": "https://images.unsplash.com/photo-1516684732162-798a0062be99?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy"
+      ],
+      "portionSize": "Served with crispy papad & lime pickle"
+    },
+    {
+      "id": "rnp-04",
+      "name": "Pasta",
+      "category": "rice-noodles-pasta",
+      "categoryTitle": "Rice, Noodles & Pasta",
+      "price": 400,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isAvailable": true,
+      "description": "Choice of Penne or Spaghetti tossed in your choice of sauce: Creamy Alfredo, Rich Arrabbiata, or Basil Pesto, served with garlic toast.",
+      "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ],
+      "variants": [
+        {
+          "name": "Veg",
+          "price": 400,
+          "isVeg": true
+        },
+        {
+          "name": "Chicken",
+          "price": 500,
+          "isVeg": false
+        }
+      ]
+    },
+    {
+      "id": "rnp-05",
+      "name": "Chinese Rice / Noodles",
+      "category": "rice-noodles-pasta",
+      "categoryTitle": "Rice, Noodles & Pasta",
+      "price": 300,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isAvailable": true,
+      "description": "Wok-tossed Fried Rice or Hakka Noodles with garlic, shredded seasonal greens, scallions, and light soya sauce.",
+      "image": "https://images.unsplash.com/photo-1585032226651-759b368d7246?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Soy",
+        "Gluten",
+        "Egg (for Egg/Mixed variant)"
+      ],
+      "variants": [
+        {
+          "name": "Veg",
+          "price": 300,
+          "isVeg": true
+        },
+        {
+          "name": "Egg",
+          "price": 320,
+          "isVeg": false
+        },
+        {
+          "name": "Chicken",
+          "price": 350,
+          "isVeg": false
+        },
+        {
+          "name": "Mixed (Egg, Chicken, Prawn)",
+          "price": 400,
+          "isVeg": false
+        }
+      ]
+    },
+    {
+      "id": "rnp-06",
+      "name": "Thokku Biryani",
+      "category": "rice-noodles-pasta",
+      "categoryTitle": "Rice, Noodles & Pasta",
+      "price": 450,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isBestseller": true,
+      "isChefSpecial": true,
+      "isAvailable": true,
+      "description": "Signature Pondicherry style slow-dum biryani layered with rich shallot-tomato thokku gravy and fragrant seeraga samba rice.",
+      "image": "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy"
+      ],
+      "portionSize": "Served with onion raita & brinjal gravy",
+      "variants": [
+        {
+          "name": "Paneer",
+          "price": 450,
+          "isVeg": true
+        },
+        {
+          "name": "Chicken",
+          "price": 500,
+          "isVeg": false
+        },
+        {
+          "name": "Mutton",
+          "price": 600,
+          "isVeg": false
+        }
+      ]
+    },
+    {
+      "id": "bread-01",
+      "name": "Dosa – Plain",
+      "category": "indian-bread",
+      "categoryTitle": "Indian Breads & Dosas",
+      "price": 200,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isVegan": true,
+      "isAvailable": true,
+      "description": "Crisp golden fermented rice and lentil crepe served with sambar and trio of coastal chutneys.",
+      "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=600&q=80",
+      "portionSize": "Served with Sambar & 3 Chutneys"
+    },
+    {
+      "id": "bread-02",
+      "name": "Dosa – Egg",
+      "category": "indian-bread",
+      "categoryTitle": "Indian Breads & Dosas",
+      "price": 300,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "breakfast",
+        "room-service"
+      ],
+      "isVeg": false,
+      "isAvailable": true,
+      "description": "Golden crisp dosa layered with spiced country beaten egg, crushed black pepper, and curry leaf oil.",
+      "image": "https://images.unsplash.com/photo-1589301760014-d929f3979dbc?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Egg"
+      ],
+      "portionSize": "Served with Sambar, Chutneys & Gravy"
+    },
+    {
+      "id": "bread-03",
+      "name": "Naan / Roti / Chapathi / Phulka",
+      "category": "indian-bread",
+      "categoryTitle": "Indian Breads & Dosas",
+      "price": 150,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isAvailable": true,
+      "description": "Choice of fresh clay oven baked Naan, whole wheat Tandoori Roti, soft Chapathi, or puffed Phulka.",
+      "image": "https://images.unsplash.com/photo-1626074353765-517a681e40be?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Gluten"
+      ],
+      "portionSize": "Per Basket / 2 Pieces"
+    },
+    {
+      "id": "bread-04",
+      "name": "Lachha Paratha",
+      "category": "indian-bread",
+      "categoryTitle": "Indian Breads & Dosas",
+      "price": 175,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isAvailable": true,
+      "description": "Multi-layered flaky whole wheat bread brushed with desi ghee and cooked crisp in the clay oven.",
+      "image": "https://images.unsplash.com/photo-1626074353765-517a681e40be?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ]
+    },
+    {
+      "id": "bread-05",
+      "name": "Garlic Naan",
+      "category": "indian-bread",
+      "categoryTitle": "Indian Breads & Dosas",
+      "price": 175,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isBestseller": true,
+      "isAvailable": true,
+      "description": "Leavened flatbread studded with roasted garlic cloves, fresh coriander, and brushed with melted butter.",
+      "image": "https://images.unsplash.com/photo-1626074353765-517a681e40be?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ]
+    },
+    {
+      "id": "bread-06",
+      "name": "Butter Naan",
+      "category": "indian-bread",
+      "categoryTitle": "Indian Breads & Dosas",
+      "price": 175,
+      "serviceTime": "12:30 PM – 3:00 PM & 7:30 PM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isAvailable": true,
+      "description": "Soft and pillowy clay oven baked tandoori bread generously coated with churned white butter.",
+      "image": "https://images.unsplash.com/photo-1626074353765-517a681e40be?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Gluten",
+        "Dairy"
+      ]
+    },
+    {
+      "id": "dessert-01",
+      "name": "Caramel Custard",
+      "category": "desserts",
+      "categoryTitle": "Gourmet Desserts",
+      "price": 300,
+      "serviceTime": "11:00 AM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "all-day",
+        "room-service"
+      ],
+      "isVeg": false,
+      "isBestseller": true,
+      "isChefSpecial": true,
+      "isAvailable": true,
+      "description": "Classic French colonial silky baked custard crowned with a deep amber golden caramel sauce.",
+      "image": "https://images.unsplash.com/photo-1541783245831-57d6fb0926d3?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy",
+        "Egg"
+      ],
+      "portionSize": "Signature Chilled Dessert"
+    },
+    {
+      "id": "dessert-02",
+      "name": "Almond Truffle Chocolate Pastry",
+      "category": "desserts",
+      "categoryTitle": "Gourmet Desserts",
+      "price": 350,
+      "serviceTime": "11:00 AM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "all-day",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isChefSpecial": true,
+      "isAvailable": true,
+      "description": "Decadent dark Belgian chocolate ganache slice layered with roasted California almond slivers and cocoa dust.",
+      "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Nuts (Almond)"
+      ]
+    },
+    {
+      "id": "dessert-03",
+      "name": "Walnut Brownie",
+      "category": "desserts",
+      "categoryTitle": "Gourmet Desserts",
+      "price": 300,
+      "serviceTime": "11:00 AM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "all-day",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isBestseller": true,
+      "isAvailable": true,
+      "description": "Warm fudge chocolate brownie packed with toasted walnuts, served with a scoop of Madagascar vanilla ice cream.",
+      "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy",
+        "Gluten",
+        "Nuts (Walnut)"
+      ]
+    },
+    {
+      "id": "dessert-04",
+      "name": "Rasmalai",
+      "category": "desserts",
+      "categoryTitle": "Gourmet Desserts",
+      "price": 250,
+      "serviceTime": "11:00 AM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "all-day",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isBestseller": true,
+      "isAvailable": true,
+      "description": "Spongy cottage cheese patties poached in condensed saffron and cardamom milk, garnished with Iranian pistachios.",
+      "image": "https://images.unsplash.com/photo-1541783245831-57d6fb0926d3?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy",
+        "Nuts (Pistachio)"
+      ],
+      "portionSize": "2 Royal Patties"
+    },
+    {
+      "id": "dessert-05",
+      "name": "Gulab Jamun",
+      "category": "desserts",
+      "categoryTitle": "Gourmet Desserts",
+      "price": 200,
+      "serviceTime": "11:00 AM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "all-day",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isAvailable": true,
+      "description": "Golden fried reduced-milk dumplings soaked in warm rose and cardamom scented sugar syrup.",
+      "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy",
+        "Gluten"
+      ],
+      "portionSize": "2 Warm Jamuns"
+    },
+    {
+      "id": "dessert-06",
+      "name": "Carrot Halwa",
+      "category": "desserts",
+      "categoryTitle": "Gourmet Desserts",
+      "price": 200,
+      "serviceTime": "11:00 AM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "all-day",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isAvailable": true,
+      "description": "Slow-simmered grated Delhi red carrots cooked in whole milk, pure desi ghee, khoya, and roasted cashews.",
+      "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy",
+        "Nuts (Cashew)"
+      ]
+    },
+    {
+      "id": "dessert-07",
+      "name": "Choice of Icecream",
+      "category": "desserts",
+      "categoryTitle": "Gourmet Desserts",
+      "price": 200,
+      "serviceTime": "11:00 AM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "all-day",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isAvailable": true,
+      "description": "Two scoops of premium ice cream: Choice of French Vanilla, Belgian Chocolate, Alphonso Mango, or Strawberry.",
+      "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy"
+      ],
+      "portionSize": "Two Gourmet Scoops"
+    },
+    {
+      "id": "dessert-08",
+      "name": "Seasonal Fruit Cut",
+      "category": "desserts",
+      "categoryTitle": "Gourmet Desserts",
+      "price": 200,
+      "serviceTime": "11:00 AM – 11:00 PM",
+      "mealTypes": [
+        "lunch",
+        "dinner",
+        "all-day",
+        "room-service",
+        "breakfast"
+      ],
+      "isVeg": true,
+      "isVegan": true,
+      "isAvailable": true,
+      "description": "Chef’s selection of fresh seasonal coastal tropical fruits: Papaya, Pineapple, Watermelon, and Muskmelon.",
+      "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?auto=format&fit=crop&w=600&q=80",
+      "portionSize": "Generous Fruit Platter"
+    },
+    {
+      "id": "tc-01",
+      "name": "Tea",
+      "category": "tea-coffee",
+      "categoryTitle": "Tea & Artisanal Coffee",
+      "price": 150,
+      "serviceTime": "7:00 AM – 11:00 PM",
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "all-day",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isAvailable": true,
+      "description": "Finest Nilgiri orthodox black tea, Masala Chai with ginger and cardamom, or soothing Green Tea.",
+      "image": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy (if served with milk)"
+      ],
+      "portionSize": "Served in an individual porcelain pot"
+    },
+    {
+      "id": "tc-02",
+      "name": "Coffee",
+      "category": "tea-coffee",
+      "categoryTitle": "Tea & Artisanal Coffee",
+      "price": 150,
+      "serviceTime": "7:00 AM – 11:00 PM",
+      "mealTypes": [
+        "breakfast",
+        "lunch",
+        "dinner",
+        "all-day",
+        "room-service"
+      ],
+      "isVeg": true,
+      "isBestseller": true,
+      "isAvailable": true,
+      "description": "Signature South Indian Kumbakonam Degree filter coffee frothed to velvety perfection in traditional brassware.",
+      "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=600&q=80",
+      "allergens": [
+        "Dairy"
+      ],
+      "portionSize": "Traditional Brass Dabarah Set"
+    }
+  ],
+  "settings": {
+    "restaurantName": "Le Boulevard",
+    "parentProperty": "Hotel Atithi - TGI Grand",
+    "subtitle": "A Premium Dining Experience by the Sea",
+    "taxNotice": "All prices are subject to 18% GST.",
+    "gstPercentage": 18,
+    "phone": "+91 413 2211111",
+    "whatsapp": "+91 93600 00000",
+    "email": "dining@atithipondicherry.com",
+    "address": "126, S.V. Patel Salai",
+    "city": "Puducherry",
+    "pincode": "605001",
+    "qrCodeBaseUrl": "https://menu.atithipondicherry.com/",
+    "announcement": "Chef’s Coastal Special: Fresh Bay of Bengal Era Manga Thokku & Creole Spice Grilled Prawns available today.",
+    "isAnnouncementActive": true,
+    "roomServiceActive": true
+  },
+  "buffets": [
+    {
+      "id": "buffet-bf-01",
+      "title": "Grand Coastal Sunrise Breakfast Buffet",
+      "mealType": "breakfast",
+      "serviceDate": "Daily Service",
+      "timings": "7:00 AM – 10:30 AM",
+      "priceAdult": 550,
+      "priceChild": 350,
+      "isPublished": true,
+      "sections": [
+        {
+          "title": "Live Counters",
+          "items": [
+            {
+              "name": "Live Dosa Station (Plain, Ghee Roast, Masala, Egg Dosa)",
+              "isVeg": true,
+              "description": "Prepared à la minute with fresh organic churned ghee"
+            },
+            {
+              "name": "Live Eggs Station (Omelettes, Scrambled, Sunny Side Up, French Toast)",
+              "isVeg": false,
+              "description": "Farm fresh country eggs cooked to your preference"
+            },
+            {
+              "name": "Live Poori & Bhatura Counter with Pindi Chole",
+              "isVeg": true,
+              "description": "Puffed golden hot"
+            }
+          ]
+        },
+        {
+          "title": "South Indian Specialties",
+          "items": [
+            {
+              "name": "Steamed Mallipoo Idli with 3 Chutneys & Drumstick Sambar",
+              "isVeg": true
+            },
+            {
+              "name": "Medu Vada crisp & piping hot",
+              "isVeg": true
+            },
+            {
+              "name": "Ven Pongal with Cashews & Ghee",
+              "isVeg": true
+            },
+            {
+              "name": "Rava Kichadi with Country Vegetables",
+              "isVeg": true
+            }
+          ]
+        },
+        {
+          "title": "Continental & Baker’s Basket",
+          "items": [
+            {
+              "name": "Freshly Baked Croissants, Danishes & Pain au Chocolat",
+              "isVeg": true
+            },
+            {
+              "name": "Toasted Artisanal Multigrain & Brioche Breads with Butter & Preserves",
+              "isVeg": true
+            },
+            {
+              "name": "Baked Beans in Herbed Tomato Coulis",
+              "isVeg": true
+            },
+            {
+              "name": "Grilled Herb Chicken Sausages",
+              "isVeg": false
+            }
+          ]
+        },
+        {
+          "title": "Fresh Fruits & Juices",
+          "items": [
+            {
+              "name": "Freshly Squeezed Valencia Orange & Watermelon Juice",
+              "isVeg": true
+            },
+            {
+              "name": "Cut Tropical Fruit Platter (Papaya, Melon, Pineapple, Banana)",
+              "isVeg": true
+            },
+            {
+              "name": "Greek Yogurt with Granola, Wild Honey & Dried Nuts",
+              "isVeg": true
+            }
+          ]
+        },
+        {
+          "title": "Morning Brews",
+          "items": [
+            {
+              "name": "Puducherry Degree Filter Coffee",
+              "isVeg": true
+            },
+            {
+              "name": "Masala Chai & English Breakfast Tea",
+              "isVeg": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "buffet-lunch-01",
+      "title": "The Bay of Bengal Executive Lunch Buffet",
+      "mealType": "lunch",
+      "serviceDate": "Daily Service",
+      "timings": "12:30 PM – 3:30 PM",
+      "priceAdult": 850,
+      "priceChild": 500,
+      "isPublished": true,
+      "sections": [
+        {
+          "title": "Soup & Broth",
+          "items": [
+            {
+              "name": "Cream of Field Mushroom Soup with Croutons",
+              "isVeg": true
+            },
+            {
+              "name": "Nattu Kozhi Chettinad Chicken Shorba",
+              "isVeg": false
+            }
+          ]
+        },
+        {
+          "title": "Salad & Chaat Bar",
+          "items": [
+            {
+              "name": "Sprout & Raw Mango Peanut Chaat",
+              "isVeg": true
+            },
+            {
+              "name": "Mediterranean Herb Tossed Caesar Salad",
+              "isVeg": true
+            },
+            {
+              "name": "Cold Smoked Chicken & Bell Pepper Salad",
+              "isVeg": false
+            },
+            {
+              "name": "Cucumber & Mint Raita, House Pickles, Chutneys & Papads",
+              "isVeg": true
+            }
+          ]
+        },
+        {
+          "title": "Live Tandoor & Chaat Counter",
+          "items": [
+            {
+              "name": "Hot Tandoori Makhmali Paneer Tikka & Banjara Murgh Kebab",
+              "isVeg": false,
+              "description": "Smoked over live coals and served straight to your table"
+            },
+            {
+              "name": "Assorted Freshly Baked Indian Breads (Naan, Roti, Kulcha)",
+              "isVeg": true
+            }
+          ]
+        },
+        {
+          "title": "Vegetarian Main Courses",
+          "items": [
+            {
+              "name": "Paneer Butter Masala",
+              "isVeg": true
+            },
+            {
+              "name": "Subji Shabnam with Babycorn & Green Peas",
+              "isVeg": true
+            },
+            {
+              "name": "Dal Tadka with Pure Ghee Tempering",
+              "isVeg": true
+            },
+            {
+              "name": "Aloo Jeera with Roasted Spices",
+              "isVeg": true
+            }
+          ]
+        },
+        {
+          "title": "Non-Vegetarian Main Courses",
+          "items": [
+            {
+              "name": "Pondicherry Era Manga Thokku (Prawns in Raw Mango Curry)",
+              "isVeg": false
+            },
+            {
+              "name": "Murgh Makhani (Butter Chicken Masala)",
+              "isVeg": false
+            },
+            {
+              "name": "Chettinad Meen Kozhambu (Coastal Fish Curry)",
+              "isVeg": false
+            }
+          ]
+        },
+        {
+          "title": "Rice & Biryani Station",
+          "items": [
+            {
+              "name": "Dum Chicken Seeraga Samba Biryani",
+              "isVeg": false
+            },
+            {
+              "name": "Steamed Basmati Rice & Jeera Pulao",
+              "isVeg": true
+            },
+            {
+              "name": "Creamy Curd Rice with Pomegranate",
+              "isVeg": true
+            }
+          ]
+        },
+        {
+          "title": "Grand Dessert Spread",
+          "items": [
+            {
+              "name": "French Caramel Custard",
+              "isVeg": false
+            },
+            {
+              "name": "Royal Kesari Rasmalai",
+              "isVeg": true
+            },
+            {
+              "name": "Hot Gulab Jamun with Rabdi",
+              "isVeg": true
+            },
+            {
+              "name": "Warm Walnut Brownie with Ice Cream",
+              "isVeg": true
+            },
+            {
+              "name": "Assorted Gourmet Pastries & Fresh Fruit Cuts",
+              "isVeg": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "buffet-dinner-01",
+      "title": "Le Boulevard Royal Seafood & Creole Candlelight Dinner Buffet",
+      "mealType": "dinner",
+      "serviceDate": "Daily Service",
+      "timings": "7:30 PM – 10:45 PM",
+      "priceAdult": 950,
+      "priceChild": 550,
+      "isPublished": true,
+      "sections": [
+        {
+          "title": "Soup & Broth",
+          "items": [
+            {
+              "name": "French Velouté with Garlic Brioche Croutons",
+              "isVeg": true
+            },
+            {
+              "name": "Coastal Bay Prawn & Crab Bouillabaisse",
+              "isVeg": false
+            }
+          ]
+        },
+        {
+          "title": "Live Coastal Grills & Live Pasta",
+          "items": [
+            {
+              "name": "Creole Catch of the Day (Seared Fish Fillets & Calamari with Lemon Butter)",
+              "isVeg": false
+            },
+            {
+              "name": "Live Pasta Bar: Penne & Spaghetti in Arrabbiata, Alfredo & Pesto",
+              "isVeg": true
+            },
+            {
+              "name": "Charcoal Smoked Chicken Chooza & Jinga Ajwaini",
+              "isVeg": false
+            }
+          ]
+        },
+        {
+          "title": "Vegetarian Delicacies",
+          "items": [
+            {
+              "name": "Multan Stuffed Paneer Masala",
+              "isVeg": true
+            },
+            {
+              "name": "Mushroom & Cashew Korma",
+              "isVeg": true
+            },
+            {
+              "name": "Dal Maharani slow-cooked overnight",
+              "isVeg": true
+            },
+            {
+              "name": "Tandoori Roti, Garlic Naan & Lachha Paratha",
+              "isVeg": true
+            }
+          ]
+        },
+        {
+          "title": "Non-Vegetarian Specialties",
+          "items": [
+            {
+              "name": "Coastal Mutton Milagu Sukka Curry",
+              "isVeg": false
+            },
+            {
+              "name": "Tandoori Murgh Masala in Roasted Onion Gravy",
+              "isVeg": false
+            },
+            {
+              "name": "Fresh Catch Mangalorean Fish Curry",
+              "isVeg": false
+            }
+          ]
+        },
+        {
+          "title": "Gourmet Desserts & French Confectionery",
+          "items": [
+            {
+              "name": "Belgian Chocolate Truffle Torte",
+              "isVeg": true
+            },
+            {
+              "name": "Classic Crème Brûlée & Caramel Custard",
+              "isVeg": false
+            },
+            {
+              "name": "Rich Gajar ka Halwa with Mawa",
+              "isVeg": true
+            },
+            {
+              "name": "Artisan Gelato & Ice Cream Cart (4 Flavors)",
+              "isVeg": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "orders": []
+}
